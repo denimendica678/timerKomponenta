@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\bin\Debug\timerKomponenta.exe.config
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\bin\Debug\timerKomponenta.exe
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\bin\Debug\timerKomponenta.pdb
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\obj\Debug\timerKomponenta.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\obj\Debug\timerKomponenta.Form1.resources
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\obj\Debug\timerKomponenta.Properties.Resources.resources
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\obj\Debug\timerKomponenta.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\obj\Debug\timerKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\obj\Debug\timerKomponenta.exe
+C:\Users\denim\source\repos\timerKomponenta\timerKomponenta\obj\Debug\timerKomponenta.pdb
